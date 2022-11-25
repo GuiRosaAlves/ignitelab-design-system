@@ -14,7 +14,7 @@ export function SignIn() {
   async function handleSignIn(event: FormEvent) {
     event.preventDefault();
 
-    await axios.post("/sessions", {
+    await axios.post("/ignitelab-design-system/sessions", {
       email: "guirosaalves@teste.com",
       password: "12345678",
     });

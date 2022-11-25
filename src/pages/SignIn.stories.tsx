@@ -12,7 +12,7 @@ export default {
   parameters: {
     msw: {
       handlers: [
-        rest.post("/sessions", (req, res, ctx) => {
+        rest.post("/ignitelab-design-system/sessions", (req, res, ctx) => {
           return res(
             ctx.json({
               message: "Login realizado!",
