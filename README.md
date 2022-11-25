@@ -11,3 +11,6 @@
 <p>- Post Css</p>
 <p>- CLSX</p>
 <p>- Phosphor Icons</p>
+<p>- Jest</p>
+<p>- Axios</p>
+<p>- Mock Service Worker</p>
