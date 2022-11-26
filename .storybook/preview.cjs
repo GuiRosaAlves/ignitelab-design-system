@@ -8,6 +8,21 @@ initialize({
 
 export const decorators = [mswDecorator];
 
+if (typeof global.process === "undefined") {
+  const { worker } = require("../src/mocks/browser");
+  if (window.location.pathname === "/ignitelab-design-system") {
+    window.location.pathname = "/ignitelab-design-system/";
+
+    return;
+  }
+
+  worker.start({
+    serviceWorker: {
+      url: "/ignitelab-design-system/mockServiceWorker.js",
+    },
+  });
+}
+
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
   controls: {
