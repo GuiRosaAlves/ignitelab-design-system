@@ -12,8 +12,6 @@ if (typeof global.process === "undefined") {
   const { worker } = require("../src/mocks/browser");
   if (window.location.pathname === "/ignitelab-design-system") {
     window.location.pathname = "/ignitelab-design-system/";
-
-    return;
   }
 
   worker.start({
