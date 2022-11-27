@@ -27,35 +27,34 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<br />
-
-[![Acesse][checkout-shield]][checkout-url]
-[![Figma][figma-shield]][figma-url]
-
 </div>
-
-[deployed-status-shield]: https://img.shields.io/github/deployments/GuiRosaAlves/ignitelab-design-system/github-pages?style=for-the-badge
-[deployed-status-url]: https://guirosaalves.github.io/ignitelab-design-system/
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="src/assets/images/readme-header.png" alt="Logo" width="1280" height="720">
+  <!-- <img src="src/assets/images/logo.png" alt="Logo" width="80" height="auto"> -->
 
   <h3 align="center">Design System</h3>
 
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+<p align="center">
+An awesome README template to jumpstart your projects!
+<br />
+<br />
+    
+<a href="https://guirosaalves.github.io/ignitelab-design-system/?path=/story/pages-signin--default">
+  <img src="https://img.shields.io/badge/-Explore%20a%20Documentação-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+</a>
+<a href="https://www.figma.com/file/H2Xz29eLqDyeuMcrBNi9o7/Ignite-Lab-Design-System?node-id=0%3A1&t=NsrqCtKa01pfq5jF-1">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+</a>
+<br />
+<a href="https://github.com/GuiRosaAlves/ignitelab-design-system/issues">
+  <img src="https://img.shields.io/badge/-Reportar%20Bug-critical?style=for-the-badge"/>
+</a>
+<a href="https://github.com/GuiRosaAlves/ignitelab-design-system/issues">
+  <img src="https://img.shields.io/badge/-Requisitar%20Feature-informational?style=for-the-badge"/>
+</a>
+</p>
 </div>
 
 
@@ -91,7 +90,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="src/assets/images/readme-header.png" alt="Logo" width="1920" height="auto">
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -283,10 +282,14 @@ Use this space to list resources you find helpful and would like to give credit 
 [project-language-url]: https://github.com/GuiRosaAlves
 [deployed-status-shield]: https://img.shields.io/github/deployments/GuiRosaAlves/ignitelab-design-system/github-pages?style=for-the-badge
 [deployed-status-url]: https://guirosaalves.github.io/ignitelab-design-system/
-[checkout-shield]: https://img.shields.io/badge/-Acesse%20o%20projeto-important?style=for-the-badge
+[checkout-shield]: https://img.shields.io/badge/-Explore%20a%20Documentação-FF4785?style=for-the-badge&logo=storybook&logoColor=white
 [checkout-url]: https://guirosaalves.github.io/ignitelab-design-system/?path=/story/pages-signin--default
 [figma-shield]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
 [figma-url]: https://www.figma.com/file/H2Xz29eLqDyeuMcrBNi9o7/Ignite-Lab-Design-System?node-id=0%3A1&t=NsrqCtKa01pfq5jF-1
+[bug-report-shield]: https://img.shields.io/badge/-Reportar%20Bug-critical?style=for-the-badge
+[bug-report-url]: https://github.com/GuiRosaAlves/ignitelab-design-system/issues
+[feature-request-shield]: https://img.shields.io/badge/-Requisitar%20Feature-informational?style=for-the-badge
+[feature-request-url]: https://github.com/GuiRosaAlves/ignitelab-design-system/issues
   
 ##TECHNOLOGIES
 <p>Technologies</p>
