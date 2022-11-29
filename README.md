@@ -111,17 +111,29 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Tailwind][Tailwind.css]][Tailwind-url]
+* [![Tailwind][Tailwind.css]][Tailwind-url]
+* [![MSW][msw-shield]][msw-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+##TECHNOLOGIES
+<p>Technologies</p>
+<p>- React</p>
+<p>- Tailwind Css</p>
+<p>- Post Css</p>
+<p>- Vite</p>
+<p>- Typescript</p>
+<p>- Radix-UI</p>
+<p>- Storybook</p>
+<p>- Post Css</p>
+<p>- CLSX</p>
+<p>- Phosphor Icons</p>
+<p>- Figma</p>
+<p>- Jest</p>
+<p>- Axios</p>
+<p>- Mock Service Worker</p>
 
 
 <!-- GETTING STARTED -->
@@ -284,13 +296,35 @@ Use this space to list resources you find helpful and would like to give credit 
 [deployed-status-url]: https://guirosaalves.github.io/ignitelab-design-system/
 [checkout-shield]: https://img.shields.io/badge/-Explore%20a%20Documentação-FF4785?style=for-the-badge&logo=storybook&logoColor=white
 [checkout-url]: https://guirosaalves.github.io/ignitelab-design-system/?path=/story/pages-signin--default
-[figma-shield]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
-[figma-url]: https://www.figma.com/file/H2Xz29eLqDyeuMcrBNi9o7/Ignite-Lab-Design-System?node-id=0%3A1&t=NsrqCtKa01pfq5jF-1
 [bug-report-shield]: https://img.shields.io/badge/-Reportar%20Bug-critical?style=for-the-badge
 [bug-report-url]: https://github.com/GuiRosaAlves/ignitelab-design-system/issues
 [feature-request-shield]: https://img.shields.io/badge/-Requisitar%20Feature-informational?style=for-the-badge
 [feature-request-url]: https://github.com/GuiRosaAlves/ignitelab-design-system/issues
-  
+[Tailwind.css]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Tailwind-url]: https://tailwindcss.com/
+[PostCSS.js]: 
+[PostCSS-url]: https://postcss.org/
+[Vite.js]: 
+[Vite-url]: https://vitejs.dev/
+[Typescript.js]:
+[Typescript-url]: https://www.typescriptlang.org/
+[Radix-UI]:
+[Radix-url]: https://www.radix-ui.com/
+[Storybook.js]: 
+[Storybook-url: https://storybook.js.org/
+[CLSX.js]: 
+[CLSX-url]: https://github.com/lukeed/clsx
+[Phospor-Icons.js]: 
+[Phospor-Icons-url]: https://github.com/phosphor-icons/phosphor-react
+[figma-shield]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
+[figma-url]: https://www.figma.com/file/H2Xz29eLqDyeuMcrBNi9o7/Ignite-Lab-Design-System?node-id=0%3A1&t=NsrqCtKa01pfq5jF-1
+[Jest.js]: 
+[Jest-url]: https://jestjs.io/
+[Axios.js]:
+[Axios-url]:
+[msw-shield]: https://img.shields.io/badge/MSW-orange?style=for-the-badge
+[msw-url]: https://mswjs.io/
+
 ##TECHNOLOGIES
 <p>Technologies</p>
 <p>- React</p>
