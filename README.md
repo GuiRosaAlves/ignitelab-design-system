@@ -109,32 +109,14 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [![React][React.js]][React-url]
-* [![Tailwind][Tailwind.css]][Tailwind-url]
-* [![Tailwind][Tailwind.css]][Tailwind-url]
-* [![MSW][msw-shield]][msw-url]
+* [![Tailwind][tailwind-css-shield]][tailwind-css-url]
+* [![Vite][vite-shield]][vite-url]
+* [![Typescript][typescript-shield]][typescript-url]
+* [![Storybook][storybook-shield]][storybook-url]
+* [![Figma][figma-shield]][figma-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-##TECHNOLOGIES
-<p>Technologies</p>
-<p>- React</p>
-<p>- Tailwind Css</p>
-<p>- Post Css</p>
-<p>- Vite</p>
-<p>- Typescript</p>
-<p>- Radix-UI</p>
-<p>- Storybook</p>
-<p>- Post Css</p>
-<p>- CLSX</p>
-<p>- Phosphor Icons</p>
-<p>- Figma</p>
-<p>- Jest</p>
-<p>- Axios</p>
-<p>- Mock Service Worker</p>
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -182,24 +164,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -241,16 +205,14 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Rocket Seat](https://www.rocketseat.com.br/)
+* [Post Css](https://postcss.org/)
+* [Radix UI](https://www.radix-ui.com/)
+* [CLSX](https://github.com/lukeed/clsx)
+* [Phospor Icons](https://github.com/phosphor-icons/phosphor-react)
+* [Jest](https://jestjs.io/)
+* [Axios](https://axios-http.com/)
+* [MSW](https://mswjs.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -300,44 +262,27 @@ Use this space to list resources you find helpful and would like to give credit 
 [bug-report-url]: https://github.com/GuiRosaAlves/ignitelab-design-system/issues
 [feature-request-shield]: https://img.shields.io/badge/-Requisitar%20Feature-informational?style=for-the-badge
 [feature-request-url]: https://github.com/GuiRosaAlves/ignitelab-design-system/issues
-[Tailwind.css]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
-[Tailwind-url]: https://tailwindcss.com/
-[PostCSS.js]: 
-[PostCSS-url]: https://postcss.org/
-[Vite.js]: 
-[Vite-url]: https://vitejs.dev/
-[Typescript.js]:
-[Typescript-url]: https://www.typescriptlang.org/
-[Radix-UI]:
-[Radix-url]: https://www.radix-ui.com/
-[Storybook.js]: 
-[Storybook-url: https://storybook.js.org/
-[CLSX.js]: 
-[CLSX-url]: https://github.com/lukeed/clsx
-[Phospor-Icons.js]: 
-[Phospor-Icons-url]: https://github.com/phosphor-icons/phosphor-react
+[tailwind-css-shield]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+[tailwind-css-url]: https://tailwindcss.com/
+[post-css-shield]: https://img.shields.io/badge/-Post%20Css-red?style=for-the-badge&logo=post-css&logoColor=white
+[post-css-url]: https://postcss.org/
+[vite-shield]: https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white
+[vite-url]: https://vitejs.dev/
+[typescript-shield]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
+[typescript-url]: https://www.typescriptlang.org/
+[radix-ui-shield]: https://img.shields.io/badge/-Radix--UI-blueviolet?style=for-the-badge&logo=radix-ui&logoColor=white
+[radix-ui-url]: https://www.radix-ui.com/
+[storybook-shield]: https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white
+[storybook-url]: https://storybook.js.org/
+[clsx-shield]: https://img.shields.io/badge/-CLSX-lightgrey?style=for-the-badge
+[clsx-url]: https://github.com/lukeed/clsx
+[phospor-icons-shield]: https://img.shields.io/badge/-phospor--icons-yellow?style=for-the-badge
+[phospor-icons-url]: https://github.com/phosphor-icons/phosphor-react
 [figma-shield]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
 [figma-url]: https://www.figma.com/file/H2Xz29eLqDyeuMcrBNi9o7/Ignite-Lab-Design-System?node-id=0%3A1&t=NsrqCtKa01pfq5jF-1
-[Jest.js]: 
-[Jest-url]: https://jestjs.io/
-[Axios.js]:
-[Axios-url]:
+[jest-shield]: https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white
+[jest-url]: https://jestjs.io/
+[axios-shield]: https://img.shields.io/badge/-Axios-blueviolet?style=for-the-badge
+[axios-url]: https://axios-http.com/
 [msw-shield]: https://img.shields.io/badge/MSW-orange?style=for-the-badge
 [msw-url]: https://mswjs.io/
-
-##TECHNOLOGIES
-<p>Technologies</p>
-<p>- React</p>
-<p>- Tailwind Css</p>
-<p>- Post Css</p>
-<p>- Vite</p>
-<p>- Typescript</p>
-<p>- Radix-UI</p>
-<p>- Storybook</p>
-<p>- Post Css</p>
-<p>- CLSX</p>
-<p>- Phosphor Icons</p>
-<p>- Figma</p>
-<p>- Jest</p>
-<p>- Axios</p>
-<p>- Mock Service Worker</p>
