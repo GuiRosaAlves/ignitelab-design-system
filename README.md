@@ -64,22 +64,22 @@ Projeto Frontend completo, feito desde o FIGMA até publicação.
   <summary>Índice</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre o Projeto</a>
+      <a href="#sobre-o-projeto">Sobre o Projeto</a>
       <ul>
-        <li><a href="#built-with">Tecnologias</a></li>
+        <li><a href="#tecnologias">Tecnologias</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Executando o projeto</a>
+      <a href="#executando-o-projeto">Executando o projeto</a>
       <ul>
-        <li><a href="#prerequisites">Requisitos</a></li>
-        <li><a href="#installation">Configurações iniciais</a></li>
+        <li><a href="#requisitos">Requisitos</a></li>
+        <li><a href="#configurações-iniciais">Configurações iniciais</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contribuições</a></li>
-        <li><a href="#contact">Licença</a></li>
-    <li><a href="#contact">Contato</a></li>
-    <li><a href="#acknowledgments">Autores e reconhecimento</a></li>
+    <li><a href="#contribuições">Contribuições</a></li>
+        <li><a href="#licença">Licença</a></li>
+    <li><a href="#contato">Contato</a></li>
+    <li><a href="#autores-e-reconhecimento">Autores e reconhecimento</a></li>
   </ol>
 </details>
 
@@ -171,7 +171,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENÇA -->
 ## Licença
 
-O projeto publicado em 2022 sobre a licença MIT ❤️
+Projeto publicado em 2022 sobre a licença MIT ❤️
 
 <p align="right">(<a href="#readme-top">voltar para o começo</a>)</p>
 
@@ -216,9 +216,9 @@ Link do projeto: [https://guirosaalves.github.io/ignitelab-design-system/](https
 [issues-shield]: https://img.shields.io/github/issues/GuiRosaAlves/ignitelab-design-system.svg?style=for-the-badge
 [issues-url]: https://github.com/GuiRosaAlves/ignitelab-design-system/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/GuiRosaAlves/ignitelab-design-system/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/guirosaalves/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
