@@ -61,34 +61,32 @@ An awesome README template to jumpstart your projects!
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Índice</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Sobre o Projeto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Tecnologias</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Executando o projeto</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Requisitos</a></li>
+        <li><a href="#installation">Configurações iniciais</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contributing">Contribuições</a></li>
+        <li><a href="#contact">Licença</a></li>
+    <li><a href="#contact">Contato</a></li>
+    <li><a href="#acknowledgments">Autores e reconhecimento</a></li>
   </ol>
 </details>
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- SOBRE O PROJETO -->
+## Sobre o Projeto
 
 <img src="src/assets/images/readme-header.png" alt="Logo" width="1920" height="auto">
 
@@ -103,11 +101,11 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar para o começo</a>)</p>
 
 
 
-### Built With
+### Tecnologias
 
 * [![React][React.js]][React-url]
 * [![Tailwind][tailwind-css-shield]][tailwind-css-url]
@@ -116,15 +114,15 @@ Use the `BLANK_README.md` to get started.
 * [![Storybook][storybook-shield]][storybook-url]
 * [![Figma][figma-shield]][figma-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar para o começo</a>)</p>
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- EXECUTANDO O PROJETO -->
+## Executando o projeto
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Requisitos
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -132,7 +130,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### Configurações iniciais
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
@@ -150,22 +148,10 @@ _Below is an example of how you can instruct your audience on installing and set
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar para o começo</a>)</p>
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- CONTRIBUTING -->
-## Contributing
+<!-- CONTRIBUIÇOES -->
+## Contribuições
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -178,32 +164,32 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar para o começo</a>)</p>
 
 
 
-<!-- LICENSE -->
-## License
+<!-- LICENÇA -->
+## Licença
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+O projeto publicado em 2022 sobre a licença MIT ❤️
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar para o começo</a>)</p>
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- CONTATO -->
+## Contato
+
+Guilherme Rosa Alves - [@meu_linkedin](https://www.linkedin.com/in/guirosaalves/) - guilhermerosaalves@gmail.com
+
+Link do projeto: [https://guirosaalves.github.io/ignitelab-design-system/](https://guirosaalves.github.io/ignitelab-design-system/?path=/story/pages-signin--default)
+
+<p align="right">(<a href="#readme-top">voltar para o começo</a>)</p>
+
+
+
+<!-- AUTORES E RECONHECIMENTO -->
+## Autores e reconhecimento
 
 * [Rocket Seat](https://www.rocketseat.com.br/)
 * [Post Css](https://postcss.org/)
@@ -214,7 +200,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 * [Axios](https://axios-http.com/)
 * [MSW](https://mswjs.io/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar para o começo</a>)</p>
 
 
 
