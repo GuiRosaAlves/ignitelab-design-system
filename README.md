@@ -37,7 +37,7 @@
   <h3 align="center">Design System</h3>
 
 <p align="center">
-An awesome README template to jumpstart your projects!
+Projeto Frontend completo, feito desde o FIGMA até publicação.
 <br />
 <br />
     
