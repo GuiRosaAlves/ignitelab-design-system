@@ -201,7 +201,7 @@ Projeto publicado em 2022 sobre a licença MIT ❤️
 <!-- CONTATO -->
 ## Contato
 
-Guilherme Rosa Alves - [@meu_linkedin](https://www.linkedin.com/in/guirosaalves/) - guilhermerosaalves@gmail.com
+Guilherme Rosa Alves - [@GuiRosaAlves](https://www.linkedin.com/in/guirosaalves/) - guilhermerosaalves@gmail.com
 
 Link do projeto: [https://guirosaalves.github.io/ignitelab-design-system/](https://guirosaalves.github.io/ignitelab-design-system/?path=/story/pages-signin--default)
 
